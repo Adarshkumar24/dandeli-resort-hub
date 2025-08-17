@@ -4,6 +4,11 @@ A comprehensive e-commerce booking platform for adventure tourism and resort acc
 
 ![Dandeli Resort Hub](./docs/screenshots/homepage.png)
 
+## 🌟 Live Demo
+**🚀 [View Live Application](https://dandeli-resort-hub.vercel.app)**
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Adarshkumar24/dandeli-resort-hub)
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
@@ -272,7 +277,12 @@ yarn preview
 
 ## 📦 Deployment
 
-### Vercel Deployment
+### Live Production Site
+🌐 **Live Demo**: [https://dandeli-resort-hub.vercel.app](https://dandeli-resort-hub.vercel.app)
+
+### Vercel Deployment (Recommended)
+This project is optimized for Vercel deployment:
+
 ```bash
 # Install Vercel CLI
 npm i -g vercel
@@ -281,12 +291,23 @@ npm i -g vercel
 vercel --prod
 ```
 
+**Auto-deployment**: Connected to GitHub - pushes to `main` branch automatically deploy.
+
 ### Netlify Deployment
 ```bash
 # Build the project
 npm run build
 
 # Deploy dist folder to Netlify
+```
+
+### Environment Variables for Production
+Ensure these are set in your deployment platform:
+```env
+VITE_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
+VITE_UPI_ID=8260230183@ibl
+VITE_WHATSAPP_NUMBER=918260230183
+VITE_SUPPORT_EMAIL=pradhanadarsh727@gmail.com
 ```
 
 ## 🤝 Contributing
@@ -309,7 +330,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - WhatsApp: [Chat on WhatsApp](https://wa.me/918260230183)
 
 **Project Repository**
-- GitHub: [https://github.com/your-username/dandeli-resort-hub](https://github.com/your-username/dandeli-resort-hub)
+- GitHub: [https://github.com/Adarshkumar24/dandeli-resort-hub](https://github.com/Adarshkumar24/dandeli-resort-hub)
+- Live Demo: [https://dandeli-resort-hub.vercel.app](https://dandeli-resort-hub.vercel.app)
 
 ---
 
