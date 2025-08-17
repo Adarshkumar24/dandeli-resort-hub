@@ -17,42 +17,20 @@ To create professional screenshots for the README, follow these guidelines:
 
 ### 3. Required Screenshots
 
-#### Homepage (`homepage.png`)
+#### Homepage (`homepage.png`) ✅
 - Navigate to: `http://localhost:8081/`
-- Capture: Full page including hero section, features, and testimonials
+- Capture: Full page including hero section with camping theme
 - Ensure: All images are loaded and animations are complete
 
-#### Accommodation Page (`accommodation.png`)
+#### Accommodation Page (`accommodation.png`) ✅
 - Navigate to: `http://localhost:8081/accommodation`
 - Capture: Room listings with pricing and features
-- Show: At least 3-4 room options visible
+- Show: Multiple room options with clear pricing
 
-#### Activities Page (`activities.png`)
+#### Activities Page (`activities.png`) ✅
 - Navigate to: `http://localhost:8081/activities`
-- Capture: Activity cards with booking options
-- Include: Various activity types
-
-#### Shopping Cart (`cart.png`)
-- Add items to cart first
-- Navigate to cart view
-- Capture: Items, pricing, and checkout button
-- Show: At least 2-3 items in cart
-
-#### Payment Page (`payment.png`)
-- Navigate through checkout process
-- Capture: Payment options with UPI and QR code
-- Include: Form fields and payment methods
-
-#### My Bookings (`my-bookings.png`)
-- Sign in with test account
-- Navigate to: `http://localhost:8081/my-bookings`
-- Capture: Booking history with actions
-- Show: At least one booking with details
-
-#### Mobile View (`mobile.png`)
-- Use browser dev tools to simulate mobile
-- Capture: Homepage on mobile device
-- Ensure: Responsive design is visible
+- Capture: Activity cards with booking options and ratings
+- Include: River rafting, wildlife safari, and other activities
 
 ### 4. Image Optimization
 - Save as PNG for clarity

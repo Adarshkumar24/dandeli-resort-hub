@@ -237,31 +237,15 @@ await sendEmail({
 
 ### Homepage
 ![Homepage](./docs/screenshots/homepage.png)
-*Modern landing page with hero section and feature highlights*
+*Modern landing page with hero section and beautiful camping theme*
 
 ### Accommodation Catalog
 ![Accommodation](./docs/screenshots/accommodation.png)
-*Browse available rooms and accommodations*
+*Browse available rooms and accommodations with transparent pricing*
 
 ### Activity Booking
 ![Activities](./docs/screenshots/activities.png)
-*Adventure activity selection and booking*
-
-### Shopping Cart
-![Cart](./docs/screenshots/cart.png)
-*Review selected items before checkout*
-
-### Payment Page
-![Payment](./docs/screenshots/payment.png)
-*Secure payment processing with UPI and QR options*
-
-### Booking Management
-![My Bookings](./docs/screenshots/my-bookings.png)
-*Personal booking dashboard with modification options*
-
-### Mobile Responsive
-![Mobile View](./docs/screenshots/mobile.png)
-*Fully responsive design for mobile devices*
+*Adventure activity selection with ratings and detailed information*
 
 ## 🧪 Testing
 
